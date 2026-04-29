@@ -1,0 +1,10 @@
+游戏项目开发的六部分：
+    ├── 1. 初始化与窗口设置 (Initialization)
+    ├── 2. 游戏循环 (Game Loop)
+    │   ├── 事件处理 (Event Handling)
+    │   ├── 状态更新 (Update)
+    │   └── 渲染绘制 (Render)
+    ├── 3. 游戏对象管理 (Game Objects)
+    ├── 4. 资源管理 (Assets)
+    ├── 5. 碰撞与物理 (Collision & Physics)
+    └── 6. 游戏逻辑与规则 (Game Logic)
